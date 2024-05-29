@@ -1,16 +1,40 @@
-# projetos_perguntas
+# Projetos Perguntas
 
-A new Flutter project.
+![GitHub Repo Size](https://img.shields.io/github/repo-size/DaniloBitencourt/projetos_perguntas)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/DaniloBitencourt/projetos_perguntas)
 
-## Getting Started
+Um aplicativo de perguntas e respostas desenvolvido com Flutter.
 
-This project is a starting point for a Flutter application.
+## Descrição
 
-A few resources to get you started if this is your first Flutter project:
+O "Projetos Perguntas" é um aplicativo mobile de perguntas e respostas que permite aos usuários criar, editar e visualizar perguntas. Este projeto é ideal para quem está começando a aprender desenvolvimento mobile com Flutter e quer entender como funciona o gerenciamento mais básico de alguns widgets e suas propriedades.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+
+- **Framework:** Flutter
+- **Linguagem:** Dart
+
+## Instalação
+
+Siga os passos abaixo para configurar o projeto localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/DaniloBitencourt/projetos_perguntas.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd projetos_perguntas
+   ```
+3. Instale as dependências:
+   ```bash
+   flutter pub get
+   ```
+4. Execute o aplicativo:
+   ```bash
+   flutter run
+   ```
+## Uso
+Depois de seguir os passos de instalação, o aplicativo será executado em seu emulador ou dispositivo conectado.
+
