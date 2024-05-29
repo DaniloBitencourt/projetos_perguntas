@@ -7,8 +7,7 @@ Um aplicativo de perguntas e respostas desenvolvido com Flutter.
 
 ## Descrição
 
-O "Projetos Perguntas" é um aplicativo mobile de perguntas e respostas que permite aos usuários criar, editar e visualizar perguntas. Este projeto é ideal para quem está começando a aprender desenvolvimento mobile com Flutter e quer entender como funciona o gerenciamento mais básico de alguns widgets e suas propriedades.
-
+O "Projetos Perguntas" é um aplicativo mobile desenvolvido em Flutter de perguntas e respostas que permite aos usuários visualizar e selecionar perguntas para alcançar uma pontuação final. Este projeto é ideal para quem está começando a aprender sobre desenvolvimento mobile e quer entender como funciona o gerenciamento básico de alguns widgets.
 
 ## Tecnologias Utilizadas
 
