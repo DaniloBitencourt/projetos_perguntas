@@ -11,8 +11,8 @@ O "Projetos Perguntas" é um aplicativo mobile desenvolvido em Flutter de pergun
 
 ## Tecnologias Utilizadas
 
-- **Framework:** Flutter
-- **Linguagem:** Dart
+- **Framework:** Flutter <img align="center" alt="Danilo-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+- **Linguagem:** Dart <img align="center" alt="Danilo-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 
 ## Instalação
 
